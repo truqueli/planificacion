@@ -1,2 +1,1 @@
-# planificacion
-tarea de s.o
+# planification
